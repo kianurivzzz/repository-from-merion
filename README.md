@@ -1,1 +1,1 @@
-Hi! How are you?
+git is awesome!
